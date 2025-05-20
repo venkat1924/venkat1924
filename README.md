@@ -5,7 +5,7 @@
 ## Hi, I’m Venkat 👋
 
 - 🎓 **B.E. in CSE & Data Science** @ R.V. College of Engineering  
-- 💼 Intern @ AVEVA, formerly at Samsung Research Institute-Bangalore, RVCE-HPCC CoE 
+- 💼 Intern @ AVEVA, formerly at the Samsung Research Institute-Bangalore, RVCE-HPCC CoE 
 - 🔬 Exploring Machine Learning, Data Science & Theoretical CS  
 
 ---
