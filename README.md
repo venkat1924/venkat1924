@@ -1,7 +1,3 @@
-<!-- Replace the placeholders (… ) with your actual details -->
-
-
-
 ## Hi, I’m Venkat 👋
 
 - 🎓 **B.E. in CSE & Data Science** @ R.V. College of Engineering  
