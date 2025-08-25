@@ -1,12 +1,12 @@
-## Hi, I’m Venkat 👋
+## Hi, I’m Venkat 
 
-- 🎓 **B.E. in CSE & Data Science** @ R.V. College of Engineering  
-- 💼 Intern @ AVEVA, formerly at the Samsung Research Institute-Bangalore, RVCE-HPCC CoE 
-- 🔬 Exploring Machine Learning, Data Science & Theoretical CS  
+- **B.E. in CSE & Data Science** @ R.V. College of Engineering  
+- Intern @ TrueFoundry, formerly at Aveva, Samsung Research Institute-Bangalore, RVCE-HPCC CoE 
+- Exploring Machine Learning, Data Science & Theoretical CS  
 
 ---
 
-### 🔭 Recent Projects
+### Recent Projects
 
 - **One-Step Diffusion Model**  
   Single-pass image generation using diffusion principles.  
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-333?&logo=python" /> 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/v-e-n-k-a-t/)  
 - [Email](mailto:anumanenivb.cd22@rvce.edu.in)
