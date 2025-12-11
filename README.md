@@ -44,5 +44,3 @@ I pick up whatever I need, as I need it.
 ---
 
 #### You can find me via [LinkedIn](https://www.linkedin.com/in/v-e-n-k-a-t/) or [Email](mailto:anumanenivb.cd22@rvce.edu.in)
-
----
