@@ -6,7 +6,7 @@
 
 ---
 
-### Some Interesting Projects I've worked on outside of work
+### Independent Research & Builds
 
 - **One-Step Diffusion Model**  
   Few-pass image generation using diffusion principles.  
