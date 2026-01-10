@@ -1,7 +1,7 @@
 ## Hi, I’m Venkat 
 
 - **B.E. in CSE & Data Science** @ R.V. College of Engineering  
-- Intern @ [TrueFoundry](https://www.truefoundry.com/), formerly at [Aveva](https://www.aveva.com/en/), the [Samsung Research Institute-Bangalore](https://www.samsungprism.com/), and the [RVCE-HPCC CoE](https://hpccsystems.com/community/academics/rv-college-of-engineering/#:~:text=RV%20College%20of%20Engineering%20%E2%80%93%20HPCC%20Systems%20Centre%20of%20Excellence%20in%20Cognitive%20Intelligent%20Systems%20for%20Sustainable%20Solutions).  
+- Intern @ Oracle, previously at TrueFoundry, Aveva, the Samsung Research Institute, and the RVCE-HPCC CoE.
 - Solving tough problems with ML and SWE every day.
 
 ---
