@@ -1,9 +1,6 @@
 ## Hi, I’m Venkat 
-
 - **B.E. in CSE & Data Science** @ R.V. College of Engineering  
 - Intern @ Oracle, previously at TrueFoundry, Aveva, the Samsung Research Institute, and the RVCE-HPCC CoE.
-- Solving tough problems with ML and SWE every day.
-
 ---
 
 ### Independent Research & Builds
