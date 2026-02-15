@@ -11,26 +11,38 @@
 <table>
   <tr>
     <td width="50%">
-      <strong>One-Step Diffusion Model</strong><br>
+      <strong>Few-Step Diffusion Model</strong><br>
       Few-pass image generation using diffusion principles.<br>
       🔗 <a href="https://github.com/venkat1924/One-step-diffusion-Model-for-Image-Generation">Repo</a>
     </td>
     <td width="50%">
-      <strong>Biomedical Knowledge Graph Creation</strong><br>
-      NLP pipeline to extract and link biomedical entities.<br>
-      🔗 <a href="https://github.com/venkat1924/Construction-of-a-Biomedical-Knowledge-Graph-using-Natural-Language-Processing">Repo</a>
+      <strong>CAPS for Load-Balanced MoE inference</strong><br>
+      Content aware predictive scheduling for intelligent batch selection<br>
+      🔗 <a href="https://github.com/venkat1924/CAPS">Repo</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
+   <tr>
+   <td width="50%">
       <strong>Parameter Recovery for Sophisticated Prey-Predator systems</strong><br>
       Recover parameters governing data generation from population data.<br>
       🔗 <a href="https://github.com/venkat1924/Inverse-Modelling-LSTM">Repo</a>
     </td>
     <td width="50%">
+      <strong>SprintGuard for risk prediction</strong><br>
+      Predict user story risk level to avoid estimation failure and scope creep.<br>
+      🔗 <a href="https://github.com/venkat1924/SprintGuard">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <strong>Non-invasive Quantification of Power Loss due to Micro-cracks in Solar Cells</strong><br>
       e2e pipeline: EL measurements -> power efficiency loss.<br>
       🔗 <a href="https://github.com/venkat1924/Solar-Cell-Crack-Detection">Repo</a>
+    </td>
+    <td width="50%">
+      <strong>Biomedical Knowledge Graph Creation</strong><br>
+      NLP pipeline to extract and link biomedical entities.<br>
+      🔗 <a href="https://github.com/venkat1924/Construction-of-a-Biomedical-Knowledge-Graph-using-Natural-Language-Processing">Repo</a>
     </td>
   </tr>
 </table>
