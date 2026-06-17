@@ -25,9 +25,9 @@
       🔗 <a href="https://github.com/venkat1924/Inverse-Modelling-LSTM">Repo</a>
     </td>
     <td width="50%">
-      <strong>SprintGuard for risk prediction</strong><br>
-      Predict user story risk level to avoid estimation failure and scope creep.<br>
-      🔗 <a href="https://github.com/venkat1924/SprintGuard">Repo</a>
+      <strong>TokenGate for secure LLM inference</strong><br>
+      Layered security pipeline for LLM ingress and egress<br>
+      🔗 <a href="https://github.com/venkat1924/TokenGate">Repo</a>
     </td>
   </tr>
   <tr>
