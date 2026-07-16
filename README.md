@@ -1,6 +1,6 @@
-## Hi, I’m Venkat 
-- **B.E. in CSE & Data Science** @ R.V. College of Engineering  
+## Hi, I’m Venkat
 - SWE @ TrueFoundry, previously at Oracle, Aveva, the Samsung Research Institute, and the RVCE-HPCC CoE.
+- **B.E. in CSE & Data Science** @ R.V. College of Engineering  
 ---
 
 ### Independent Research & Builds
